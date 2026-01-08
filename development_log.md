@@ -6,3 +6,4 @@
 - 2026-01-03: Added core application structure
 - 2026-01-05: Implemented image upload functionality
 - 2026-01-06: Added clothing try-on feature
+- 2026-01-08: Integrated Gemini API for virtual try-on
