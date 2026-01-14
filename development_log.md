@@ -11,3 +11,4 @@
 - 2026-01-11: Fixed layout issues
 - 2026-01-12: Added result modal component
 - 2026-01-13: Enhanced image processing
+- 2026-01-14: Updated styling and responsiveness
