@@ -17,3 +17,4 @@
 - 2026-01-17: Improved user experience
 - 2026-01-18: Optimized performance
 - 2026-01-19: Added utility functions
+- 2026-01-20: Updated TypeScript types
