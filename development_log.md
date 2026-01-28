@@ -23,3 +23,4 @@
 - 2026-01-24: Added loading states
 - 2026-01-25: Improved API integration
 - 2026-01-26: Updated README documentation
+- 2026-01-28: Added metadata configuration
