@@ -37,3 +37,4 @@
 - 2026-02-13: Added result modal component
 - 2026-02-14: Enhanced image processing
 - 2026-02-15: Updated styling and responsiveness
+- 2026-02-16: Refactored service layer
