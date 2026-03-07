@@ -49,3 +49,4 @@
 - 2026-03-02: Improved API integration
 - 2026-03-03: Updated README documentation
 - 2026-03-05: Added metadata configuration
+- 2026-03-07: Fixed build configuration
