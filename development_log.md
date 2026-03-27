@@ -63,3 +63,4 @@
 - 2026-03-22: Fixed TypeScript warnings
 - 2026-03-24: Enhanced API error handling
 - 2026-03-25: Updated package dependencies
+- 2026-03-27: Added more robust error messages
