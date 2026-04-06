@@ -70,3 +70,4 @@
 - 2026-04-02: Added keyboard navigation support
 - 2026-04-03: Improved form validation
 - 2026-04-05: Added more detailed logging
+- 2026-04-06: Fixed memory leak issues
