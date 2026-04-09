@@ -72,3 +72,4 @@
 - 2026-04-05: Added more detailed logging
 - 2026-04-06: Fixed memory leak issues
 - 2026-04-07: Enhanced API retry logic
+- 2026-04-09: Updated build configuration
